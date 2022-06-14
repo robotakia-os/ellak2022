@@ -1,8 +1,0 @@
-https://stretch3.github.io
-
-https://makecode.microbit.org     (καλύτερα με Edge)
-
-https://teachablemachine.withgoogle.com/train
-
-https://www.tinkercad.com     (Nickname: student, Class Code : Y5NM3YJ1N2A2)
-
